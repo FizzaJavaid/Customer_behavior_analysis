@@ -2,31 +2,31 @@
 📌 Overview:
 This project analyzes customer shopping behavior to identify patterns in purchasing, products, discounts, subscriptions, customer segments, and revenue.
 The project follows a complete analytics workflow:
-🐍 Python → 🧹 Data Cleaning → 📊 EDA → 🗄️ PostgreSQL/SQL → 📈 Power BI
+🐍 Python → 🧹 Data Cleaning → 📊 EDA → 🗄️ PostgreSQL/SQL → 📈 Power BI.
 The goal is to transform raw customer data into clear, business-focused insights that can support better decision-making.
 
 📂 Dataset:
 The dataset contains 3,900 customer records and 18 initial columns covering customer demographics, purchases, products, reviews, subscriptions, discounts, payment methods, and purchase frequency.
 
 🔎 Main Features:
-Customer ID
-Age
-Gender
-Item Purchased
-Category
-Purchase Amount
-Location
-Size
-Color
-Season
-Review Rating
-Subscription Status
-Shipping Type
-Discount Applied
-Promo Code Used
-Previous Purchases
-Payment Method
-Frequency of Purchases
+Customer ID,
+Age,
+Gender,
+Item Purchased,
+Category,
+Purchase Amount,
+Location,
+Size,
+Color,
+Season,
+Review Rating,
+Subscription Status,
+Shipping Type,
+Discount Applied,
+Promo Code Used,
+Previous Purchases,
+Payment Method,
+Frequency of Purchases.
 
 🛠️ Tools & Technologies:
 
