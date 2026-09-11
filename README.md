@@ -69,6 +69,7 @@ The analysis explored:
 * 🏷️ Discount usage
 * 🔔 Subscription behavior
 * 📅 Purchase frequency
+  
 The dataset contains 25 purchased items, 4 categories, 50 locations, 25 colors, 4 seasons, and 7 purchase-frequency categories.
 
 3️⃣ 🧹 Data Cleaning:
@@ -178,6 +179,7 @@ The dashboard provides a visual overview of customer shopping behavior and busin
 * 📅 Purchase behavior
 
 💡 Key Insights:
+
 The analysis provides insights into:
 * 👥 Customer purchasing patterns
 * 🛍️ Product performance and ratings
@@ -216,5 +218,6 @@ Analytical Skills
 * Data Interpretation
 
 🚀 Project Outcome:
+
 This project demonstrates an end-to-end customer analytics workflow, from raw data preparation to SQL-based analysis and Power BI reporting.
 It shows practical experience in using Python, SQL, PostgreSQL, and Power BI together to turn data into meaningful business insights.
