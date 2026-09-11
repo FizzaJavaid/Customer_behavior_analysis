@@ -188,6 +188,7 @@ The analysis provides insights into:
 * 🔄 Customer loyalty and repeat purchases
 * 🚚 Shipping preferences
 * 💰 Revenue distribution across customer groups
+  
 The project demonstrates how raw customer data can be transformed into structured analysis and interactive business reporting.
 
 🎯 Skills Demonstrated:
